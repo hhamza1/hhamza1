@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm Hamza, a passionate frontend developer and tec
 
 ## 📫 Let's Connect!
 - 🔗 [GitHub](https://github.com/hhamza1)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/hamza-hmitou)
+- 💼 [LinkedIn](https://www.linkedin.com/in/hamza-hmitou)
 
 Let's innovate and build something amazing together! 🚀
 
